@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC238D,653
+D 74HC(T)238 - 3-to-8 line decoder/demultiplexer@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/74HC_HCT238.pdf
+$ENDCMP
+#
+#End Doc Library
