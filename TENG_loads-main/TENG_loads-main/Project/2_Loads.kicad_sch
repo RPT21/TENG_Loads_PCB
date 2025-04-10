@@ -2365,7 +2365,6 @@
 	)
 	(label "Y11"
 		(at 161.29 36.83 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2376,7 +2375,6 @@
 	)
 	(label "O30"
 		(at 196.85 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2387,7 +2385,6 @@
 	)
 	(label "O21"
 		(at 144.78 34.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2398,7 +2395,6 @@
 	)
 	(label "Y10"
 		(at 109.22 34.29 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2409,7 +2405,6 @@
 	)
 	(label "O23"
 		(at 228.6 49.53 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2420,7 +2415,6 @@
 	)
 	(label "O21"
 		(at 228.6 44.45 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2431,7 +2425,6 @@
 	)
 	(label "O29"
 		(at 144.78 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2442,7 +2435,6 @@
 	)
 	(label "O28"
 		(at 196.85 41.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2453,7 +2445,6 @@
 	)
 	(label "Y14"
 		(at 161.29 44.45 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2464,7 +2455,6 @@
 	)
 	(label "O27"
 		(at 144.78 41.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2475,7 +2465,6 @@
 	)
 	(label "Din4"
 		(at 53.34 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2486,7 +2475,6 @@
 	)
 	(label "O27"
 		(at 228.6 59.69 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2497,7 +2485,6 @@
 	)
 	(label "Y14"
 		(at 90.17 49.53 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2508,7 +2495,6 @@
 	)
 	(label "O19"
 		(at 228.6 39.37 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2519,7 +2505,6 @@
 	)
 	(label "O28"
 		(at 228.6 62.23 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2530,7 +2515,6 @@
 	)
 	(label "Y8"
 		(at 109.22 29.21 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2541,7 +2525,6 @@
 	)
 	(label "Teng+"
 		(at 251.46 40.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2552,7 +2535,6 @@
 	)
 	(label "O31"
 		(at 228.6 69.85 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2563,7 +2545,6 @@
 	)
 	(label "Y11"
 		(at 90.17 41.91 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2574,7 +2555,6 @@
 	)
 	(label "O23"
 		(at 144.78 36.83 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2585,7 +2565,6 @@
 	)
 	(label "O17"
 		(at 228.6 34.29 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2596,7 +2575,6 @@
 	)
 	(label "Y13"
 		(at 161.29 41.91 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2607,7 +2585,6 @@
 	)
 	(label "O22"
 		(at 196.85 34.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2618,7 +2595,6 @@
 	)
 	(label "Din2"
 		(at 53.34 36.83 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2629,7 +2605,6 @@
 	)
 	(label "O22"
 		(at 228.6 46.99 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2640,7 +2615,6 @@
 	)
 	(label "O29"
 		(at 228.6 64.77 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2651,7 +2625,6 @@
 	)
 	(label "O31"
 		(at 144.78 46.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2662,7 +2635,6 @@
 	)
 	(label "Vsense"
 		(at 252.73 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2673,7 +2645,6 @@
 	)
 	(label "Y9"
 		(at 109.22 31.75 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2684,7 +2655,6 @@
 	)
 	(label "Teng-"
 		(at 252.73 43.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2695,7 +2665,6 @@
 	)
 	(label "Y8"
 		(at 161.29 29.21 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2706,7 +2675,6 @@
 	)
 	(label "Y15"
 		(at 109.22 46.99 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2717,7 +2685,6 @@
 	)
 	(label "O20"
 		(at 196.85 31.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2728,7 +2695,6 @@
 	)
 	(label "O19"
 		(at 144.78 31.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2739,7 +2705,6 @@
 	)
 	(label "Y10"
 		(at 161.29 34.29 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2750,7 +2715,6 @@
 	)
 	(label "Y12"
 		(at 161.29 39.37 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2761,7 +2725,6 @@
 	)
 	(label "Y11"
 		(at 109.22 36.83 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2772,7 +2735,6 @@
 	)
 	(label "O32"
 		(at 196.85 46.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2783,7 +2745,6 @@
 	)
 	(label "Y9"
 		(at 161.29 31.75 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2794,7 +2755,6 @@
 	)
 	(label "O18"
 		(at 196.85 29.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2805,7 +2765,6 @@
 	)
 	(label "O20"
 		(at 228.6 41.91 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2816,7 +2775,6 @@
 	)
 	(label "Y9"
 		(at 90.17 36.83 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2827,7 +2785,6 @@
 	)
 	(label "O18"
 		(at 228.6 36.83 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2838,7 +2795,6 @@
 	)
 	(label "O26"
 		(at 228.6 57.15 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2849,7 +2805,6 @@
 	)
 	(label "O26"
 		(at 196.85 39.37 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2860,7 +2815,6 @@
 	)
 	(label "O32"
 		(at 228.6 72.39 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2871,7 +2825,6 @@
 	)
 	(label "Y12"
 		(at 109.22 39.37 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2882,7 +2835,6 @@
 	)
 	(label "Y12"
 		(at 90.17 44.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2893,7 +2845,6 @@
 	)
 	(label "O24"
 		(at 228.6 52.07 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2904,7 +2855,6 @@
 	)
 	(label "Y8"
 		(at 90.17 34.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2915,7 +2865,6 @@
 	)
 	(label "Din0"
 		(at 53.34 31.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2926,7 +2875,6 @@
 	)
 	(label "Y14"
 		(at 109.22 44.45 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2937,7 +2885,6 @@
 	)
 	(label "Y15"
 		(at 161.29 46.99 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2948,7 +2895,6 @@
 	)
 	(label "O25"
 		(at 228.6 54.61 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2959,7 +2905,6 @@
 	)
 	(label "Y13"
 		(at 109.22 41.91 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2970,7 +2915,6 @@
 	)
 	(label "O25"
 		(at 144.78 39.37 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2981,7 +2925,6 @@
 	)
 	(label "O24"
 		(at 196.85 36.83 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2992,7 +2935,6 @@
 	)
 	(label "O17"
 		(at 144.78 29.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3003,7 +2945,6 @@
 	)
 	(label "Din1"
 		(at 53.34 34.29 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3014,7 +2955,6 @@
 	)
 	(label "Y13"
 		(at 90.17 46.99 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3025,7 +2965,6 @@
 	)
 	(label "Y10"
 		(at 90.17 39.37 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3036,7 +2975,6 @@
 	)
 	(label "O30"
 		(at 228.6 67.31 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3047,7 +2985,6 @@
 	)
 	(label "Y15"
 		(at 57.15 46.99 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3059,7 +2996,6 @@
 	(hierarchical_label "Din4"
 		(shape input)
 		(at 53.34 44.45 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3071,7 +3007,6 @@
 	(hierarchical_label "TENG-"
 		(shape input)
 		(at 259.08 43.18 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3083,7 +3018,6 @@
 	(hierarchical_label "Din1"
 		(shape input)
 		(at 53.34 34.29 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3095,7 +3029,6 @@
 	(hierarchical_label "Din0"
 		(shape input)
 		(at 53.34 31.75 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3107,7 +3040,6 @@
 	(hierarchical_label "TENG+"
 		(shape input)
 		(at 259.08 40.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3119,7 +3051,6 @@
 	(hierarchical_label "Din2"
 		(shape input)
 		(at 53.34 36.83 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3131,7 +3062,6 @@
 	(hierarchical_label "Vsense"
 		(shape input)
 		(at 261.62 48.26 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
