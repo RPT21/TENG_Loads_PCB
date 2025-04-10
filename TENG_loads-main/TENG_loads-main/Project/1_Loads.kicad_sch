@@ -1395,6 +1395,16 @@
 	)
 	(wire
 		(pts
+			(xy 20.32 52.07) (xy 20.32 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "002addf3-b6d4-4034-926f-851ac15f9783")
+	)
+	(wire
+		(pts
 			(xy 213.36 40.64) (xy 215.9 40.64)
 		)
 		(stroke
@@ -1412,16 +1422,6 @@
 			(type default)
 		)
 		(uuid "02fbe502-45bb-4b9d-90e8-2179962029b9")
-	)
-	(wire
-		(pts
-			(xy 38.1 46.99) (xy 46.99 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "042d37f5-b213-4b29-ad52-a1bcfe2353a8")
 	)
 	(wire
 		(pts
@@ -1615,6 +1615,16 @@
 	)
 	(wire
 		(pts
+			(xy 20.32 60.96) (xy 20.32 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "439d8913-d735-416f-a5f7-3fe6ac6c6e93")
+	)
+	(wire
+		(pts
 			(xy 38.1 41.91) (xy 46.99 41.91)
 		)
 		(stroke
@@ -1695,6 +1705,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 60.96) (xy 30.48 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "679d2a23-30c5-42d6-8a33-c6770667c81c")
+	)
+	(wire
+		(pts
 			(xy 243.84 41.91) (xy 232.41 41.91)
 		)
 		(stroke
@@ -1712,6 +1732,16 @@
 			(type default)
 		)
 		(uuid "6825367e-32fe-4301-a26f-1112ddfcf530")
+	)
+	(wire
+		(pts
+			(xy 20.32 44.45) (xy 46.99 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6880aece-c18e-433e-8944-3655e4549d63")
 	)
 	(wire
 		(pts
@@ -1865,6 +1895,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 52.07) (xy 30.48 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8724c551-3d8c-434f-bae4-e38a82f55de7")
+	)
+	(wire
+		(pts
 			(xy 127 34.29) (xy 124.46 34.29)
 		)
 		(stroke
@@ -1942,16 +1982,6 @@
 			(type default)
 		)
 		(uuid "99c86409-4bb9-4a02-acb3-11646975dbe1")
-	)
-	(wire
-		(pts
-			(xy 38.1 44.45) (xy 46.99 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ac3cb86-9353-4fe5-9d90-0c68d164aa34")
 	)
 	(wire
 		(pts
@@ -2235,6 +2265,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 46.99) (xy 46.99 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8751a85-b6bd-4c2d-847a-f0eca428d5f5")
+	)
+	(wire
+		(pts
 			(xy 213.36 53.34) (xy 215.9 53.34)
 		)
 		(stroke
@@ -2325,6 +2365,7 @@
 	)
 	(label "Y5"
 		(at 74.93 52.07 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2335,6 +2376,7 @@
 	)
 	(label "O3"
 		(at 127 36.83 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2345,6 +2387,7 @@
 	)
 	(label "Y3"
 		(at 138.43 41.91 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2355,6 +2398,7 @@
 	)
 	(label "Teng+"
 		(at 236.22 39.37 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2365,6 +2409,7 @@
 	)
 	(label "O6"
 		(at 173.99 39.37 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2375,6 +2420,7 @@
 	)
 	(label "O14"
 		(at 173.99 49.53 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2385,6 +2431,7 @@
 	)
 	(label "Y7"
 		(at 91.44 52.07 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2395,6 +2442,7 @@
 	)
 	(label "O2"
 		(at 213.36 35.56 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2405,6 +2453,7 @@
 	)
 	(label "O9"
 		(at 213.36 53.34 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2413,18 +2462,9 @@
 		)
 		(uuid "229a30e5-de06-4a86-b27a-2e7f0b84be9e")
 	)
-	(label "Din4"
-		(at 38.1 46.99 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "234ce535-6191-4cfd-b4f3-a4ea289340f5")
-	)
 	(label "O11"
 		(at 213.36 58.42 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2435,6 +2475,7 @@
 	)
 	(label "O7"
 		(at 127 41.91 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2445,6 +2486,7 @@
 	)
 	(label "Y1"
 		(at 74.93 41.91 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2455,6 +2497,7 @@
 	)
 	(label "O4"
 		(at 213.36 40.64 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2465,6 +2508,7 @@
 	)
 	(label "Y4"
 		(at 74.93 49.53 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2475,6 +2519,7 @@
 	)
 	(label "O4"
 		(at 173.99 36.83 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2485,6 +2530,7 @@
 	)
 	(label "Y0"
 		(at 138.43 34.29 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2495,6 +2541,7 @@
 	)
 	(label "O12"
 		(at 213.36 60.96 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2505,6 +2552,7 @@
 	)
 	(label "Y2"
 		(at 91.44 39.37 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2515,6 +2563,7 @@
 	)
 	(label "O6"
 		(at 213.36 45.72 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2525,6 +2574,7 @@
 	)
 	(label "O16"
 		(at 213.36 71.12 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2535,6 +2585,7 @@
 	)
 	(label "O2"
 		(at 173.99 34.29 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2545,6 +2596,7 @@
 	)
 	(label "Y0"
 		(at 91.44 34.29 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2555,6 +2607,7 @@
 	)
 	(label "Y6"
 		(at 138.43 49.53 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2565,6 +2618,7 @@
 	)
 	(label "Y7"
 		(at 40.64 52.07 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2575,6 +2629,7 @@
 	)
 	(label "Din0"
 		(at 38.1 36.83 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2585,6 +2640,7 @@
 	)
 	(label "Y4"
 		(at 91.44 44.45 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2595,6 +2651,7 @@
 	)
 	(label "O15"
 		(at 127 52.07 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2605,6 +2662,7 @@
 	)
 	(label "Vsense"
 		(at 237.49 46.99 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2615,6 +2673,7 @@
 	)
 	(label "Y5"
 		(at 91.44 46.99 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2625,6 +2684,7 @@
 	)
 	(label "Y1"
 		(at 91.44 36.83 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2635,6 +2695,7 @@
 	)
 	(label "Y3"
 		(at 74.93 46.99 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2645,6 +2706,7 @@
 	)
 	(label "Y6"
 		(at 74.93 54.61 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2655,6 +2717,7 @@
 	)
 	(label "Y0"
 		(at 74.93 39.37 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2665,6 +2728,7 @@
 	)
 	(label "Y7"
 		(at 138.43 52.07 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2675,6 +2739,7 @@
 	)
 	(label "Din1"
 		(at 38.1 39.37 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2685,6 +2750,7 @@
 	)
 	(label "O15"
 		(at 213.36 68.58 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2695,6 +2761,7 @@
 	)
 	(label "Y4"
 		(at 138.43 44.45 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2705,6 +2772,7 @@
 	)
 	(label "Din2"
 		(at 38.1 41.91 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2715,6 +2783,7 @@
 	)
 	(label "O1"
 		(at 127 34.29 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2725,6 +2794,7 @@
 	)
 	(label "O12"
 		(at 173.99 46.99 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2735,6 +2805,7 @@
 	)
 	(label "O14"
 		(at 213.36 66.04 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2745,6 +2816,7 @@
 	)
 	(label "O11"
 		(at 127 46.99 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2755,6 +2827,7 @@
 	)
 	(label "O10"
 		(at 173.99 44.45 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2765,6 +2838,7 @@
 	)
 	(label "Y2"
 		(at 74.93 44.45 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2775,6 +2849,7 @@
 	)
 	(label "Teng-"
 		(at 237.49 41.91 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2785,6 +2860,7 @@
 	)
 	(label "Din5"
 		(at 38.1 49.53 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2793,18 +2869,9 @@
 		)
 		(uuid "a1724578-fa70-42dc-b486-317bd673c3ed")
 	)
-	(label "Din3"
-		(at 38.1 44.45 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a1f14aab-8b4b-4b91-b917-37550daf7e15")
-	)
 	(label "O7"
 		(at 213.36 48.26 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2815,6 +2882,7 @@
 	)
 	(label "O8"
 		(at 173.99 41.91 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2825,6 +2893,7 @@
 	)
 	(label "O8"
 		(at 213.36 50.8 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2835,6 +2904,7 @@
 	)
 	(label "Y5"
 		(at 138.43 46.99 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2845,6 +2915,7 @@
 	)
 	(label "O5"
 		(at 213.36 43.18 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2855,6 +2926,7 @@
 	)
 	(label "O3"
 		(at 213.36 38.1 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2865,6 +2937,7 @@
 	)
 	(label "O10"
 		(at 213.36 55.88 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2875,6 +2948,7 @@
 	)
 	(label "O5"
 		(at 127 39.37 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2885,6 +2959,7 @@
 	)
 	(label "Y2"
 		(at 138.43 39.37 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2895,6 +2970,7 @@
 	)
 	(label "Y1"
 		(at 138.43 36.83 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2905,6 +2981,7 @@
 	)
 	(label "O1"
 		(at 213.36 33.02 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2915,6 +2992,7 @@
 	)
 	(label "O13"
 		(at 213.36 63.5 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2925,6 +3003,7 @@
 	)
 	(label "Y6"
 		(at 91.44 49.53 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2935,6 +3014,7 @@
 	)
 	(label "O16"
 		(at 173.99 52.07 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2945,6 +3025,7 @@
 	)
 	(label "Y3"
 		(at 91.44 41.91 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2955,6 +3036,7 @@
 	)
 	(label "O9"
 		(at 127 44.45 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2965,6 +3047,7 @@
 	)
 	(label "O13"
 		(at 127 49.53 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2973,20 +3056,10 @@
 		)
 		(uuid "fdf5b875-4726-4503-a4bb-42ea96e5845e")
 	)
-	(hierarchical_label "Din4"
-		(shape input)
-		(at 38.1 46.99 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "01da7134-7ff5-4f1e-b817-9eeda37305b1")
-	)
 	(hierarchical_label "Din0"
 		(shape input)
 		(at 38.1 36.83 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2998,6 +3071,7 @@
 	(hierarchical_label "TENG+"
 		(shape input)
 		(at 243.84 39.37 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3006,20 +3080,10 @@
 		)
 		(uuid "5d71d84c-84b8-4ec7-af49-adcdf6b696e0")
 	)
-	(hierarchical_label "Din3"
-		(shape input)
-		(at 38.1 44.45 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8f81394e-ad94-40dc-829a-10281f4afc26")
-	)
 	(hierarchical_label "TENG-"
 		(shape input)
 		(at 243.84 41.91 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3031,6 +3095,7 @@
 	(hierarchical_label "Vsense"
 		(shape input)
 		(at 246.38 46.99 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3042,6 +3107,7 @@
 	(hierarchical_label "Din5"
 		(shape input)
 		(at 38.1 49.53 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3053,6 +3119,7 @@
 	(hierarchical_label "Din1"
 		(shape input)
 		(at 38.1 39.37 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3064,6 +3131,7 @@
 	(hierarchical_label "Din2"
 		(shape input)
 		(at 38.1 41.91 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3071,6 +3139,72 @@
 			(justify right)
 		)
 		(uuid "cba5953f-93a8-4ba8-886b-554c97968cd3")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 20.32 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "336b8d4e-cbd6-437f-a959-8ee7ae74070e")
+		(property "Reference" "#PWR04"
+			(at 20.32 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 20.32 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 20.32 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 20.32 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 20.32 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b1bac5e9-82fa-4c8e-8ed3-adcabdb1b677")
+		)
+		(instances
+			(project "load_automatisation"
+				(path "/e193aeee-7d8e-4a61-b3f1-51249c7839f9/cd2c16fc-4c07-418d-95cf-953fdf96275e"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -3203,6 +3337,72 @@
 			(project "load_automatisation"
 				(path "/e193aeee-7d8e-4a61-b3f1-51249c7839f9/cd2c16fc-4c07-418d-95cf-953fdf96275e"
 					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 30.48 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "47f386fb-ed80-460f-891e-6aaba5e9723f")
+		(property "Reference" "#PWR05"
+			(at 30.48 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 30.48 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 30.48 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 30.48 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 30.48 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9d2f36c1-937c-4141-8367-20162e7bf062")
+		)
+		(instances
+			(project "load_automatisation"
+				(path "/e193aeee-7d8e-4a61-b3f1-51249c7839f9/cd2c16fc-4c07-418d-95cf-953fdf96275e"
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -4441,6 +4641,142 @@
 			(project "load_automatisation"
 				(path "/e193aeee-7d8e-4a61-b3f1-51249c7839f9/cd2c16fc-4c07-418d-95cf-953fdf96275e"
 					(reference "IC11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 20.32 55.88 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e8c1d720-6da8-4662-999b-0c8c7f238b47")
+		(property "Reference" "R7"
+			(at 13.97 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100k"
+			(at 16.51 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 22.098 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 20.32 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 20.32 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "92df970d-1696-4491-a8f4-3cb74c4cbe0e")
+		)
+		(pin "2"
+			(uuid "95957a1b-e78d-41c2-a4ac-0b7bf510f9c9")
+		)
+		(instances
+			(project "load_automatisation"
+				(path "/e193aeee-7d8e-4a61-b3f1-51249c7839f9/cd2c16fc-4c07-418d-95cf-953fdf96275e"
+					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 30.48 55.88 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ffa9192f-f3ee-4a4d-a256-232cfad46f24")
+		(property "Reference" "R8"
+			(at 24.13 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100k"
+			(at 26.67 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 32.258 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 30.48 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 30.48 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "003e3500-8036-43ff-96e6-3cce19255265")
+		)
+		(pin "2"
+			(uuid "88d891e5-204d-4d50-ab60-bb62a0746b46")
+		)
+		(instances
+			(project "load_automatisation"
+				(path "/e193aeee-7d8e-4a61-b3f1-51249c7839f9/cd2c16fc-4c07-418d-95cf-953fdf96275e"
+					(reference "R8")
 					(unit 1)
 				)
 			)
