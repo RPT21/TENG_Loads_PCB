@@ -1,0 +1,5 @@
+Resultant: 14.6017699 Kohm - No funciona
+Posant 200K: 17.0984456 - Funciona amb 15.143V
+
+Canviant divisor a 5K i 15K
+Amb 200K queda Resistencia de 10.8910 - Funciona amb 16.45V
