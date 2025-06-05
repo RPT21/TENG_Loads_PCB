@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "C:/Users/marre/GitHubRepos/TENG_Loads_PCB/TENG_loads-main/TENG_loads-main/TENG_Footprints/Library.pretty")(options "")(descr ""))
+)
