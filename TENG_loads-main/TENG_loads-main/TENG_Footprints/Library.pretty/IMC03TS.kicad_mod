@@ -359,7 +359,7 @@
 		(remove_unused_layers no)
 		(uuid "b5476bb3-5fd1-42d3-bf6c-5fd7479d0e81")
 	)
-	(model "C:\\Users\\Felipe\\OneDrive\\APPS\\KICAD\\lib\\SamacSys_Parts.3dshapes\\IMC03TS.stp"
+	(model "C:\Users\marre\GitHubRepos\TENG_Loads_PCB\TENG_loads-main\TENG_loads-main\TENG_Footprints\Library.pretty\IMC03TS.stp"
 		(offset
 			(xyz -0.02999999888 0.2599999866 3.309999893)
 		)
