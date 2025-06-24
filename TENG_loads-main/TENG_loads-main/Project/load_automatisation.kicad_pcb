@@ -1521,7 +1521,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -1954,7 +1954,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -2344,7 +2344,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -3012,7 +3012,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -5631,7 +5631,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -6342,7 +6342,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -6619,16 +6619,16 @@
 			)
 		)
 	)
-	(footprint "SamacSys_Parts:SOT95P280X145-5N"
+	(footprint "Library:SOT95P280X145-5N"
 		(layer "F.Cu")
 		(uuid "2a99c25b-572c-4653-9fd0-cd7b49d2c276")
 		(at 202.43 160.16 180)
 		(descr "DBV0005A  HEIGHT 1.45")
 		(tags "Integrated Circuit")
 		(property "Reference" "IC9"
-			(at -4.0136 -4.178 180)
+			(at -3.57 -2.84 180)
 			(layer "F.SilkS")
-			(uuid "52a58618-a1ea-4846-900a-6e616222a456")
+			(uuid "b82a98ed-4a32-4871-b81c-952dea295a8e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6640,7 +6640,7 @@
 			(at 0 0 180)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "b1544bb8-3751-4961-95d8-1bad0e78fddb")
+			(uuid "d11f3d12-3375-4b55-8280-887b5732b13c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6648,11 +6648,11 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:SOT95P280X145-5N"
+		(property "Footprint" "Library:SOT95P280X145-5N"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "044bbed0-990a-4877-9960-a5cdc5037bd3")
+			(uuid "0b3d8bd7-690a-4ad3-a87f-17d498043f7a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6664,7 +6664,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7a79a4ab-7fc1-497d-a38a-828f496394d8")
+			(uuid "c58fecae-58a9-4ce5-bb07-3ae3ff4f3e47")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6676,7 +6676,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a31a2327-5d9e-4e0c-a053-ed10785e82a6")
+			(uuid "80b8030c-8364-4ff0-b997-801f2515c4c5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6787,7 +6787,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ed10a9c4-ac09-49af-8c74-de9e3a0bd88c")
+			(uuid "768948d1-7de2-40f8-b3df-dc9bf92b79ea")
 		)
 		(fp_line
 			(start 0.3 -1.45)
@@ -6797,7 +6797,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5e75b563-1ab4-49d4-a2b6-2807b1b4758a")
+			(uuid "7d5868d3-095a-4bb9-933c-4355877f153e")
 		)
 		(fp_line
 			(start -0.3 1.45)
@@ -6807,7 +6807,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b89cb579-6838-457a-83ed-d36c764620e7")
+			(uuid "8b895835-2b01-44fc-af0b-6ba891362ee9")
 		)
 		(fp_line
 			(start -0.3 -1.45)
@@ -6817,7 +6817,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "eaa8a49f-af99-4fc2-a043-0005a65beea4")
+			(uuid "a26bcc89-5fb2-42df-ac78-f2a4a7f4cec1")
 		)
 		(fp_line
 			(start -1.85 -1.5)
@@ -6827,7 +6827,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3825b620-2d67-4c60-a344-74d700a73b50")
+			(uuid "a0ceb172-4a6c-4c7a-b53a-d414976e282b")
 		)
 		(fp_line
 			(start 2.1 1.775)
@@ -6837,7 +6837,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "10f76964-ad34-4476-8c35-8bc806d8ee35")
+			(uuid "59258c1f-cd0d-4bf4-87e3-6e0e61935966")
 		)
 		(fp_line
 			(start 2.1 -1.775)
@@ -6847,7 +6847,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "7ed9daf9-7cfa-49de-bbbe-bf2928331e73")
+			(uuid "a5c02710-3600-47a3-b59d-548fada4beea")
 		)
 		(fp_line
 			(start -2.1 1.775)
@@ -6857,7 +6857,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "a0e99e86-c71b-4376-b82c-88dd8c3b55de")
+			(uuid "3225c819-65b5-4282-bd14-4b804009638d")
 		)
 		(fp_line
 			(start -2.1 -1.775)
@@ -6867,7 +6867,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2786ba12-5bcc-4cd7-8a03-0a7af8c6e3d7")
+			(uuid "1e84c559-28c0-4f76-8d34-9c3a74333584")
 		)
 		(fp_line
 			(start 0.8 1.45)
@@ -6877,7 +6877,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "5f58c5ae-75fd-4c8b-8faf-8f3bbf609193")
+			(uuid "7713bf15-5bef-4d88-8f50-8efe752ec678")
 		)
 		(fp_line
 			(start 0.8 -1.45)
@@ -6887,7 +6887,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d9a29610-f1f8-4791-bafb-e351c8552bba")
+			(uuid "4bfa1eae-eea6-430b-be09-b8af1e9a2036")
 		)
 		(fp_line
 			(start -0.8 1.45)
@@ -6897,7 +6897,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c482aa98-d7b6-4193-97e8-ec09dd6e33ef")
+			(uuid "7c8b1816-88db-43b6-b1b8-c158ff097128")
 		)
 		(fp_line
 			(start -0.8 -0.5)
@@ -6907,7 +6907,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "8e89f7ae-272a-41fd-9f0a-7bb7dfae8d62")
+			(uuid "e6721022-215b-42d5-8929-ff4ca04c78cc")
 		)
 		(fp_line
 			(start -0.8 -1.45)
@@ -6917,12 +6917,12 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "0b5c2597-492b-41fe-ac74-f7c3e5fac29d")
+			(uuid "c2cea7a8-c0e0-411c-b141-120491bab7ee")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -3.6072 -2.7048 180)
+			(at 0 0 180)
 			(layer "F.Fab")
-			(uuid "8b85000b-c679-4894-be2c-b5ccd1e14c05")
+			(uuid "604a9173-334b-4890-80a9-6c2271997612")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6937,7 +6937,7 @@
 			(net 79 "/Dout1")
 			(pinfunction "OUT")
 			(pintype "passive")
-			(uuid "e2f53f99-b889-4692-86ac-bcfba6743399")
+			(uuid "9ad12ef1-a157-4156-a841-aee4c3b9254e")
 		)
 		(pad "2" smd rect
 			(at -1.25 0 270)
@@ -6946,7 +6946,7 @@
 			(net 241 "-VCC")
 			(pinfunction "V-")
 			(pintype "passive")
-			(uuid "ae1430b9-fa42-454f-875a-963f1af0c33f")
+			(uuid "b5b5deb8-4379-4bba-a913-7e18bce0abc9")
 		)
 		(pad "3" smd rect
 			(at -1.25 0.95 270)
@@ -6955,7 +6955,7 @@
 			(net 1 "GND")
 			(pinfunction "+IN")
 			(pintype "passive")
-			(uuid "12b46afc-d34c-42cd-bbd8-b64d45f69929")
+			(uuid "3bb5b7c9-0fe4-4df0-981a-3a26585f85dd")
 		)
 		(pad "4" smd rect
 			(at 1.25 0.95 270)
@@ -6964,7 +6964,7 @@
 			(net 234 "/Current_Sense1_IN")
 			(pinfunction "-IN")
 			(pintype "passive")
-			(uuid "60d06531-0bfa-4ad6-a4ab-6112f718d5fc")
+			(uuid "cfc97826-b631-4564-9c31-dc1eedf6dd78")
 		)
 		(pad "5" smd rect
 			(at 1.25 -0.95 270)
@@ -6973,9 +6973,9 @@
 			(net 3 "VCC")
 			(pinfunction "V+")
 			(pintype "passive")
-			(uuid "1915cb25-e9dd-42a3-9eea-195afb7e2b57")
+			(uuid "e670eeab-f415-4118-9944-a6786d0124ee")
 		)
-		(model "C:\\Users\\Felipe\\OneDrive\\APPS\\KICAD\\lib\\SamacSys_Parts.3dshapes\\OPA145IDBVT.stp"
+		(model "OPA145IDBVT.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7623,7 +7623,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -8056,7 +8056,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -8446,7 +8446,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -12304,7 +12304,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -13282,7 +13282,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -15465,7 +15465,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -15898,7 +15898,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -16544,7 +16544,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -18155,7 +18155,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -18979,7 +18979,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -21876,7 +21876,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -25165,7 +25165,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -25598,7 +25598,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -27696,7 +27696,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -28086,7 +28086,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -29015,7 +29015,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -30814,7 +30814,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -31877,7 +31877,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -32736,7 +32736,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -33169,7 +33169,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -33602,7 +33602,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -33992,7 +33992,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -34638,7 +34638,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -35349,7 +35349,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -36230,7 +36230,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -36663,7 +36663,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -37096,7 +37096,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -38394,7 +38394,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -39765,7 +39765,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -40155,7 +40155,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -40588,7 +40588,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -42167,7 +42167,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -42813,7 +42813,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -43246,7 +43246,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -43636,7 +43636,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -44511,7 +44511,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -44901,7 +44901,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -45334,7 +45334,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -45724,7 +45724,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -46157,7 +46157,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\V23079A1001B301.stp"
 			(offset
-				(xyz -6.37 -2.53 1.64)
+				(xyz -6.37 -2.53 0.14)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -48201,7 +48201,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -49081,7 +49081,7 @@
 		)
 		(model "C:\\Users\\marre\\GitHubRepos\\TENG_Loads_PCB\\TENG_loads-main\\TENG_loads-main\\TENG_Footprints\\Library.pretty\\IMC03TS.stp"
 			(offset
-				(xyz -0.03 0.26 1.31)
+				(xyz -0.03 0.26 0.31)
 			)
 			(scale
 				(xyz 1 1 1)
