@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TD62083AFNG_O,N,EL
+D Gate Drivers 8-Ch NPN Driver 500mA 50V 5V
+K
+F https://pdf1.alldatasheet.com/datasheet-pdf/view/216461/TOSHIBA/TD62083AFNG.html
+$ENDCMP
+#
+#End Doc Library

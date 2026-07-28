@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1923937
+D MSTBA 2,5 HC/ 9-G-5,08 - PCB headers, nominal cross section: 2.5 mm<sup>2</sup>, color: green, nominal current: 16 A (see derating curve), rated voltage (III/2): 320 V, contact surface: Sn, contact connection type: Pin, number of potentials: 9, number of rows: 1, number of positions: 9, number of connections: 9, product range: MSTBA 2,5 HC/..-G, pitch: 5.08 mm, mounting: Wave soldering, pin layout: Linear pinning, solder pin [P]: 3.23 mm, number of solder pins per potential: 1, plug-in system: COMBICON MSTB
+K
+F https://www.phoenixcontact.com/en-us/products/pcb-header-mstba-25-hc-9-g-508-1923937?type=pdf
+$ENDCMP
+#
+#End Doc Library

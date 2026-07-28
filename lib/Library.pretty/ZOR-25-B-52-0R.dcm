@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ZOR-25-B-52-0R
+D Res 0 Ohm Conformal Coated AXL Bulk
+K
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/lr/YAGEO%20ZOR_datasheet_2021v0.pdf
+$ENDCMP
+#
+#End Doc Library

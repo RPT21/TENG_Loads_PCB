@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 231-162_001-000
+D THT male header; 1.2 x 1.2 mm solder pin; straight; Pin spacing 5 mm; 2-pole
+K
+F https://www.wago.com/231-162/001-000
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 1923937
+#/452420/1557983/2.50/9/2/Connector
+DEF 1923937 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "1923937" 650 200 50 H V L CNN
+F2 "1923937" 650 100 50 H I L CNN
+F3 "https://www.phoenixcontact.com/en-us/products/pcb-header-mstba-25-hc-9-g-508-1923937?type=pdf" 650 0 50 H I L CNN
+F4 "MSTBA 2,5 HC/ 9-G-5,08 - PCB headers, nominal cross section: 2.5 mm<sup>2</sup>, color: green, nominal current: 16 A (see derating curve), rated voltage (III/2): 320 V, contact surface: Sn, contact connection type: Pin, number of potentials: 9, number of rows: 1, number of positions: 9, number of connections: 9, product range: MSTBA 2,5 HC/..-G, pitch: 5.08 mm, mounting: Wave soldering, pin layout: Linear pinning, solder pin [P]: 3.23 mm, number of solder pins per potential: 1, plug-in system: COMBICON MSTB" 650 -100 50 H I L CNN "Description"
+F5 "8.72" 650 -200 50 H I L CNN "Height"
+F6 "651-1923937" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1923937?qs=6i0QExrCb7MxQ2Gx%2FnBU8w%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Phoenix Contact" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "1923937" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X 4 4 0 -300 200 R 50 50 0 0 P
+X 5 5 0 -400 200 R 50 50 0 0 P
+X 6 6 0 -500 200 R 50 50 0 0 P
+X 7 7 0 -600 200 R 50 50 0 0 P
+X 8 8 0 -700 200 R 50 50 0 0 P
+X 9 9 0 -800 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -900 200 -900 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

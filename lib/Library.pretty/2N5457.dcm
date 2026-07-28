@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N5457
+D JFET N-Channel -25V Low Ciss
+K
+F https://www.interfet.com/jfet-datasheets/jfet-2n5457-interfet.pdf
+$ENDCMP
+#
+#End Doc Library
