@@ -3864,7 +3864,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:SOIC127P1030X245-18N"
+		(property "Footprint" "TENG_Footprint_Library:SOIC127P1030X245-18N"
 			(at 167.64 129.21 0)
 			(hide yes)
 			(show_name no)
@@ -4472,7 +4472,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:SOIC127P1030X245-18N"
+		(property "Footprint" "TENG_Footprint_Library:SOIC127P1030X245-18N"
 			(at 120.65 129.21 0)
 			(hide yes)
 			(show_name no)

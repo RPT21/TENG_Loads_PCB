@@ -2972,7 +2972,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:V23079A1001B301"
+		(property "Footprint" "TENG_Footprint_Library:V23079A1001B301"
 			(at 115.57 171.12 0)
 			(hide yes)
 			(show_name no)
@@ -3155,7 +3155,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:V23079A1001B301"
+		(property "Footprint" "TENG_Footprint_Library:V23079A1001B301"
 			(at 118.11 280.34 0)
 			(hide yes)
 			(show_name no)
@@ -3338,7 +3338,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:V23079A1001B301"
+		(property "Footprint" "TENG_Footprint_Library:V23079A1001B301"
 			(at 255.27 214.3 0)
 			(hide yes)
 			(show_name no)
@@ -3689,7 +3689,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:IMC03TS"
+		(property "Footprint" "TENG_Footprint_Library:IMC03TS"
 			(at 96.52 115.24 0)
 			(hide yes)
 			(show_name no)
@@ -3863,7 +3863,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:V23079A1001B301"
+		(property "Footprint" "TENG_Footprint_Library:V23079A1001B301"
 			(at 115.57 243.51 0)
 			(hide yes)
 			(show_name no)
@@ -4046,7 +4046,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:IMC03TS"
+		(property "Footprint" "TENG_Footprint_Library:IMC03TS"
 			(at 96.52 154.61 0)
 			(hide yes)
 			(show_name no)
@@ -4304,7 +4304,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:V23079A1001B301"
+		(property "Footprint" "TENG_Footprint_Library:V23079A1001B301"
 			(at 257.81 134.29 0)
 			(hide yes)
 			(show_name no)
@@ -4487,7 +4487,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:IMC03TS"
+		(property "Footprint" "TENG_Footprint_Library:IMC03TS"
 			(at 96.52 191.44 0)
 			(hide yes)
 			(show_name no)
@@ -4661,7 +4661,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:V23079A1001B301"
+		(property "Footprint" "TENG_Footprint_Library:V23079A1001B301"
 			(at 255.27 174.93 0)
 			(hide yes)
 			(show_name no)
@@ -4928,7 +4928,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:V23079A1001B301"
+		(property "Footprint" "TENG_Footprint_Library:V23079A1001B301"
 			(at 115.57 207.95 0)
 			(hide yes)
 			(show_name no)
@@ -5111,7 +5111,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:IMC03TS"
+		(property "Footprint" "TENG_Footprint_Library:IMC03TS"
 			(at 96.52 227 0)
 			(hide yes)
 			(show_name no)
@@ -5285,7 +5285,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:IMC03TS"
+		(property "Footprint" "TENG_Footprint_Library:IMC03TS"
 			(at 238.76 117.78 0)
 			(hide yes)
 			(show_name no)
@@ -5459,7 +5459,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:IMC03TS"
+		(property "Footprint" "TENG_Footprint_Library:IMC03TS"
 			(at 99.06 263.83 0)
 			(hide yes)
 			(show_name no)
@@ -5717,7 +5717,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:IMC03TS"
+		(property "Footprint" "TENG_Footprint_Library:IMC03TS"
 			(at 236.22 158.42 0)
 			(hide yes)
 			(show_name no)
@@ -5891,7 +5891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:IMC03TS"
+		(property "Footprint" "TENG_Footprint_Library:IMC03TS"
 			(at 236.22 197.79 0)
 			(hide yes)
 			(show_name no)
@@ -6149,7 +6149,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:V23079A1001B301"
+		(property "Footprint" "TENG_Footprint_Library:V23079A1001B301"
 			(at 115.57 131.75 0)
 			(hide yes)
 			(show_name no)
