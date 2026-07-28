@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP OPA145ID
-D 5.5 MHz, High Slew Rate, Low-Noise, Low-power, RRO Precision JFET Operational Amplifier
-K
-F http://www.ti.com/lit/gpn/OPA145
-$ENDCMP
-#
-#End Doc Library

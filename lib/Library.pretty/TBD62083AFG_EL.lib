@@ -1,20 +1,18 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
-#SamacSys ECAD Model TD62083AFGNEL
-#/682275/1307308/2.50/18/3/Integrated Circuit
-DEF TD62083AFGNEL IC 0 30 Y Y 1 F N
-F0 "IC" 1050 300 50 H V L CNN
-F1 "TD62083AFGNEL" 1050 200 50 H V L CNN
+#SamacSys ECAD Model TBD62083AFG,EL
+#/329270/1557983/2.50/18/3/Transistor
+DEF TBD62083AFG,EL Q 0 30 Y Y 1 F N
+F0 "Q" 1050 300 50 H V L CNN
+F1 "TBD62083AFG,EL" 1050 200 50 H V L CNN
 F2 "SOIC127P1030X245-18N" 1050 100 50 H I L CNN
-F3 "https://eu.mouser.com/datasheet/2/408/TD62083AFG_datasheet_en_20091001-875843.pdf" 1050 0 50 H I L CNN
-F4 "Gate Drivers" 1050 -100 50 H I L CNN "Description"
+F3 "https://componentsearchengine.com/Datasheets/1/TBD62083AFG,EL.pdf" 1050 0 50 H I L CNN
+F4 "Gate Drivers DMOS Transistor Array 7-CH, 50V/0.5A" 1050 -100 50 H I L CNN "Description"
 F5 "2.45" 1050 -200 50 H I L CNN "Height"
-F6 "Toshiba" 1050 -300 50 H I L CNN "Manufacturer_Name"
-F7 "TD62083AFGNEL" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
-F8 "N/A" 1050 -500 50 H I L CNN "Mouser Part Number"
-F9 "https://www.mouser.co.uk/ProductDetail/Toshiba/TD62083AFGNEL?qs=ZjcfeKH2FJO2XkKSOSlUdg%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
-F10 "" 1050 -700 50 H I L CNN "Arrow Part Number"
-F11 "" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+F6 "757-TBD62083AFGEL" 1050 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Toshiba/TBD62083AFGEL?qs=fSnNYG2PaKIrAovmru5jNA%3D%3D" 1050 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Toshiba" 1050 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TBD62083AFG,EL" 1050 -600 50 H I L CNN "Manufacturer_Part_Number"
 DRAW
 X I1 1 0 0 200 R 50 50 0 0 P
 X I2 2 0 -100 200 R 50 50 0 0 P
