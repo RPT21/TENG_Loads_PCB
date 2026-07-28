@@ -10,6 +10,7 @@
 *-backups
 *.kicad_prl
 *.sch-bak
+*.lck
 *~
 _autosave-*
 *.tmp
@@ -18,6 +19,7 @@ _autosave-*
 fp-info-cache
 
 .idea/
+.history/
 
 # Netlist files (exported from Eeschema)
 *.net

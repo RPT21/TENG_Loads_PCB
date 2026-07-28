@@ -1,4 +1,4 @@
 (fp_lib_table
-  (version 7)
-  (lib (name "Library")(type "KiCad")(uri "C:/Users/marre/GitHubRepos/TENG_Loads_PCB/TENG_loads-main/TENG_loads-main/TENG_Footprints/Library.pretty")(options "")(descr ""))
+	(version 7)
+	(lib (name "TENG_Footprint_Library") (type "KiCad") (uri "C:/Users/rpieres/OneDrive - INSTITUT CATALA DE NANOCIENCIA I NANOTECNOLOGIA/Documents/GitHub/TENG_Loads_PCB/lib/Library.pretty") (options "") (descr "TENG Footprints"))
 )
